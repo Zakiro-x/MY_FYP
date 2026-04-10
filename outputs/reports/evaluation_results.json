@@ -1,0 +1,36 @@
+{
+  "overall_accuracy": 0.9643807100728576,
+  "class_accuracy": {
+    "MildDementia": 0.9720558882235529,
+    "ModerateDementia": 0.98,
+    "NonDemented": 0.979622192473598,
+    "VeryMildDementia": 0.8863801893663511
+  },
+  "num_samples": 8647,
+  "confusion_matrix": [
+    [
+      487,
+      0,
+      8,
+      6
+    ],
+    [
+      0,
+      49,
+      1,
+      0
+    ],
+    [
+      26,
+      1,
+      6586,
+      110
+    ],
+    [
+      5,
+      0,
+      151,
+      1217
+    ]
+  ]
+}

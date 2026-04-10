@@ -1,0 +1,16 @@
+{
+  "val_accuracy": 0.9664429426193237,
+  "test_accuracy": 0.9642650485038757,
+  "class_counts": {
+    "MildDementia": 4001,
+    "ModerateDementia": 390,
+    "NonDemented": 53777,
+    "VeryMildDementia": 10980
+  },
+  "class_weights": {
+    "0": 4.320669832541864,
+    "1": 44.325641025641026,
+    "2": 0.3214571285121892,
+    "3": 1.574408014571949
+  }
+}

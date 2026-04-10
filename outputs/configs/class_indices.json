@@ -1,0 +1,6 @@
+{
+  "MildDementia": 0,
+  "ModerateDementia": 1,
+  "NonDemented": 2,
+  "VeryMildDementia": 3
+}

@@ -1,0 +1,24 @@
+# TensorFlow 核心
+tensorflow==2.10.1
+numpy==1.23.5
+scipy==1.13.1
+
+# 机器学习工具
+scikit-learn==1.6.1
+pandas==1.5.3
+
+# 图像处理
+pillow==11.3.0
+
+# 可视化
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Web 部署（可选）
+flask==3.1.2
+werkzeug==3.1.4
+
+# 以下为 tensorflow 的依赖（通常会自动安装，但显式列出更保险）
+h5py==3.14.0
+keras==2.10.0
+protobuf==3.19.6

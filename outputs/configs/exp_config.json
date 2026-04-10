@@ -1,0 +1,15 @@
+{
+  "img_size": 300,
+  "batch_size": 64,
+  "epochs_frozen": 20,
+  "epochs_finetune": 40,
+  "dropout_rate": 0.2,
+  "l2_reg": 0.001,
+  "augmentation": {
+    "rotation": 0.02,
+    "zoom": 0.05,
+    "translation": 0.02,
+    "contrast": 0.05,
+    "flip_horizontal": false
+  }
+}
